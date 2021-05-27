@@ -8,4 +8,4 @@
 
 * To run the app locally clone the repo and run `yarn install`
 
-* Once install is done run yarn start and that should launch the react app in your browser.
+* Once install is done run `yarn start` and that should launch the react app in your browser.
